@@ -22,3 +22,7 @@ I used 280 screenplays for training and for testing (Leave-one-out cross-valida
 - Build KNN and linear regression models
 - Find correlated words
 - Testing results.
+
+## Results
+all the results and conclusions for this project can found here:
+https://drive.google.com/file/d/1JnGUyutD3lS1WBoaCQOkCpy9RL52AHW3/view
